@@ -1,0 +1,15 @@
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\OOP with Csharp\game_developer_II\obj\Debug\net6.0\game_developer_II.csproj.AssemblyReference.cache
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\OOP with Csharp\game_developer_II\obj\Debug\net6.0\game_developer_II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\OOP with Csharp\game_developer_II\obj\Debug\net6.0\game_developer_II.AssemblyInfoInputs.cache
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\OOP with Csharp\game_developer_II\obj\Debug\net6.0\game_developer_II.AssemblyInfo.cs
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\OOP with Csharp\game_developer_II\obj\Debug\net6.0\game_developer_II.csproj.CoreCompileInputs.cache
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\OOP with Csharp\game_developer_II\bin\Debug\net6.0\game_developer_II.exe
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\OOP with Csharp\game_developer_II\bin\Debug\net6.0\game_developer_II.deps.json
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\OOP with Csharp\game_developer_II\bin\Debug\net6.0\game_developer_II.runtimeconfig.json
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\OOP with Csharp\game_developer_II\bin\Debug\net6.0\game_developer_II.dll
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\OOP with Csharp\game_developer_II\bin\Debug\net6.0\game_developer_II.pdb
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\OOP with Csharp\game_developer_II\obj\Debug\net6.0\game_developer_II.dll
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\OOP with Csharp\game_developer_II\obj\Debug\net6.0\refint\game_developer_II.dll
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\OOP with Csharp\game_developer_II\obj\Debug\net6.0\game_developer_II.pdb
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\OOP with Csharp\game_developer_II\obj\Debug\net6.0\game_developer_II.genruntimeconfig.cache
+C:\Users\Eric\Desktop\Coding Dojo\Dojo Assignments\C Sharp\OOP with Csharp\game_developer_II\obj\Debug\net6.0\ref\game_developer_II.dll
